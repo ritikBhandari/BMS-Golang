@@ -1,4 +1,4 @@
-module github.com/akhil/go-bookstore
+module github.com/ritikBhandari/BMS-Golang
 
 go 1.16
 
